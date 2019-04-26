@@ -1,1 +1,1 @@
-print "Welcome to the scum AI"
+print("Welcome to the scum AI!")
